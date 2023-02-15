@@ -1,0 +1,20 @@
+Khaled Sulaiman,202219190,CS;PE101,Health and Fitness,1,D+;MATH101,Calculus I,4,D;PHYS101,General Physics I,4,F;CHEM101,General Chemistry I,4,A+
+Mohammed Abdulrahman,202318730,MIS;PHYS101,General Physics I,4,D+
+Ahmed Badr,202450860,CS;ICS104,Introduction to Programming in Python and C,3,A+
+Saeed Abdulaziz,202414130,EE;PHYS101,General Physics I,4,C+;IAS111,Belief and its Consequences,2,C;CHEM101,General Chemistry I,4,B;MATH101,Calculus I,4,C
+Ali Sulaiman,202483310,CHE;ENGL101,Introduction to Academic Discourse,3,B;ICS104,Introduction to Programming in Python and C,3,A+;IAS111,Belief and its Consequences,2,D+;PHYS101,General Physics I,4,C+
+Mohammed Abdullah,202577630,ME;CHEM101,General Chemistry I,4,A+;ICS104,Introduction to Programming in Python and C,3,D;PHYS101,General Physics I,4,B;MATH101,Calculus I,4,F
+Ali Omar,202336980,MATH;CHEM101,General Chemistry I,4,F;MATH101,Calculus I,4,B
+Ali Abdullah,202562840,EE;PE101,Health and Fitness,1,D+;IAS111,Belief and its Consequences,2,D+
+Saeed Badr,202220170,COE;PE101,Health and Fitness,1,C+;PHYS101,General Physics I,4,D+;MATH101,Calculus I,4,C;ICS104,Introduction to Programming in Python and C,3,C
+Khaled Abdulaziz,202380710,SWE;ICS104,Introduction to Programming in Python and C,3,B+;CHEM101,General Chemistry I,4,A
+Osama Badr,202538170,MATH;IAS111,Belief and its Consequences,2,F;PHYS101,General Physics I,4,C
+Saeed Abdullah,202391230,CS;ICS104,Introduction to Programming in Python and C,3,B+;PHYS101,General Physics I,4,F;ENGL101,Introduction to Academic Discourse,3,D+
+Saeed Abdullah,202415370,SWE;MATH101,Calculus I,4,D+
+Ahmed Badr,202434350,CS;ENGL101,Introduction to Academic Discourse,3,A+;MATH101,Calculus I,4,C+
+Hassan Abdullah,202351450,CHE;IAS111,Belief and its Consequences,2,F;PHYS101,General Physics I,4,A
+Saeed Sulaiman,202496870,CHE;PHYS101,General Physics I,4,A;IAS111,Belief and its Consequences,2,B+;ENGL101,Introduction to Academic Discourse,3,B+
+Saleh Abdulrahman,202218850,CHE;PHYS101,General Physics I,4,C;MATH101,Calculus I,4,B+;PE101,Health and Fitness,1,A+;ICS104,Introduction to Programming in Python and C,3,B+
+Ahmed Badr,202547930,MIS;IAS111,Belief and its Consequences,2,D+;ENGL101,Introduction to Academic Discourse,3,C+
+Mohammed Badr,202491590,ME;MATH101,Calculus I,4,B+;IAS111,Belief and its Consequences,2,A;PHYS101,General Physics I,4,F
+Ahmed Badr,202337380,MIS;ENGL101,Introduction to Academic Discourse,3,B+;CHEM101,General Chemistry I,4,C+
