@@ -17,4 +17,4 @@ Saeed Sulaiman,202496870,CHE;PHYS101,General Physics I,4,A;IAS111,Belief and its
 Saleh Abdulrahman,202218850,CHE;PHYS101,General Physics I,4,C;MATH101,Calculus I,4,B+;PE101,Health and Fitness,1,A+;ICS104,Introduction to Programming in Python and C,3,B+
 Ahmed Badr,202547930,MIS;IAS111,Belief and its Consequences,2,D+;ENGL101,Introduction to Academic Discourse,3,C+
 Mohammed Badr,202491590,ME;MATH101,Calculus I,4,B+;IAS111,Belief and its Consequences,2,A;PHYS101,General Physics I,4,F
-Ahmed Badr,202337380,MIS;ENGL101,Introduction to Academic Discourse,3,B+;CHEM101,General Chemistry I,4,C+
+Ahmed Badr,202337380,MIS;ENGL101,Introduction to Academic Discourse,3,B+;CHEM101,General Chemistry I,4,C
