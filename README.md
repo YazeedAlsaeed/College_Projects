@@ -4,4 +4,5 @@
 
 #### Each file named as the course name, it contains: 
 * The project files 
+* Brief description of the project
 * How to excutes the code
